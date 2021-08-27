@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital@1&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Courier Prime', monospace;
+}
+.container{
+    width: 1110px;
+    margin: 0 auto;
+    padding: 0 20px 10px;
+background: url(./images/anketa_02.jpg)no-repeat center / cover;}
+.logo{
+    width: 260px;
+    height: 111px;
+    border: 3px solid red;
+    border-radius: 3px;
+    padding: 20px 27px;
+    margin: 0 auto ;
+    margin-right: 20px ;
+    font-size: 15px;
+    font-weight: 900;
+    color: red;
+}
+.name{
+    padding: 10px 500px 60px;
+    font-size: 30px;
+    font-weight: 400;
+}
+.container .info .one{
+    padding: 5px 0 50px;
+    font-size: 20px;
+    font-weight: 900;
+}
+.container .info .two{
+    font-size: 15px;
+    font-weight: 400;
+}
+.container .about-me{
+    margin: 0 auto;
+    padding: 10px 0;
+}
